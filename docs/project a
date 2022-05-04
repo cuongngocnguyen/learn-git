@@ -1,3 +1,11 @@
 Day la project test
 Can chay thu trong test environment 
 If success, we will deploy on master and production 
+
+# Need to change some variables
+Variable 1
+Variable 2
+Variable 3
+Variable 4
+# Them vao dong 1,2,3 
+# Xoa cac dong 4,5,6
